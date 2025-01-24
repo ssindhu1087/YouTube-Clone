@@ -9,13 +9,13 @@ This is a simple **YouTube clone** application built using modern web technologi
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 - **API Integration**: The YouTube Data API v3 is the cornerstone for retrieving video content, uploading videos, and interacting with user data on YouTube.
 
-- ## Screenshots
+## Screenshots
 
-- # Home Page
-- ![image](https://github.com/user-attachments/assets/7e9b079a-12b3-4b85-81b4-1320ec8af048)
+# Home Page
+![image](https://github.com/user-attachments/assets/7e9b079a-12b3-4b85-81b4-1320ec8af048)
 
-- # Search Page
-- ![image](https://github.com/user-attachments/assets/109012bb-f0d9-477b-9d69-d6d8050905ff)
+# Search Page
+![image](https://github.com/user-attachments/assets/109012bb-f0d9-477b-9d69-d6d8050905ff)
 
 ## Technologies Used
 
